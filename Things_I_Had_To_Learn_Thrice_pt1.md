@@ -62,3 +62,6 @@ spot when that is happening and try to prevent yourself from getting drawn in.
 I have been particularly fond of doing this over the years. It is something I am
 working to fix even now.  
   
+  
+This list is not complete. I will be adding to it in time. New posts in this 
+series will linked here:
